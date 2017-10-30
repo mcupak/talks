@@ -6,6 +6,7 @@ This repository contains slides for my talks from various conferences and events
 
 ### 2017
 - [Exploring Java 9 APIs with JShell](2017-tjug-exploring-java-9-apis-with-jshell.pdf) ([Toronto Java User Group](http://www.tjug.ca/), Toronto, ON, Canada)
+- [Effective Prototyping with Java 9](2017-fstoco-effective-prototyping-with-java-9.pdf) ([FSTOCO](http://fsto.co/), Toronto, ON, Canada)
 - [REPL: Java developer’s new friend](2017-devoxx-repl-java-developers-new-friend.pdf) ([Devoxx](https://devoxx.us/), San Jose, CA, USA)
 - [How to Light a Beacon](2017-sme-how-to-light-a-beacon.pdf) ([ELIXIR Innovation and SME Forum](https://www.elixir-europe.org/events/elixir-innovation-and-sme-forum-genomics-and-health-global-resources-local-innovation-0), Helsinki, Finland)
 
