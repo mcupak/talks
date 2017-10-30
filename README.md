@@ -6,7 +6,13 @@ This repository contains slides for my talks from various conferences and events
 
 ### 2017
 - [Exploring Java 9 APIs with JShell](2017-tjug-exploring-java-9-apis-with-jshell.pdf) ([Toronto Java User Group](http://www.tjug.ca/), Toronto, ON, Canada)
+- [REPL: Java developer’s new friend](2017-devoxx-repl-java-developers-new-friend.pdf) ([Devoxx](https://devoxx.us/), San Jose, CA, USA)
 - [How to Light a Beacon](2017-sme-how-to-light-a-beacon.pdf) ([ELIXIR Innovation and SME Forum](https://www.elixir-europe.org/events/elixir-innovation-and-sme-forum-genomics-and-health-global-resources-local-innovation-0), Helsinki, Finland)
+
+### 2016
+- [Beacon Network](2016-ga4gh-plenary-beacon-network.pdf) ([Global Alliance for Genomics and Health Plenary Meeting](https://genomicsandhealth.org/), Vancouver, BC, Canada)
+- [Beacon Development](2016-ga4gh-plenary-beacon-development.pdf) ([Global Alliance for Genomics and Health Plenary Meeting](https://genomicsandhealth.org/), Vancouver, BC, Canada)
+- [Beacon API](2016-ga4gh-plenary-beacon-api.pdf) ([Global Alliance for Genomics and Health Plenary Meeting](https://genomicsandhealth.org/), Vancouver, BC, Canada)
 
 ### 2015
 - [40 Great Jenkins Plugins in 40 Minutes](2015-devconf-40-great-jenkins-plugins-in-40-minutes.pdf) ([DevConf](https://devconf.cz/), Brno, Czech Republic)
@@ -20,6 +26,9 @@ This repository contains slides for my talks from various conferences and events
 - [GateIn Introduction](2011-but-gatein-introduction.pdf) ([System Integration with JBoss at Brno University of Technology](https://developer.jboss.org/wiki/SystemovaIntegraceSJBossemPodzim2011), Brno, Czech Republic)
 
 ## Academia
+
+### 2016
+- [Beacon Network: A System for Global Genomic Data Sharing](2016-muni-beacon-network-a-system-for-global-genomic-data-sharing.pdf) ([Masaryk University](https://www.muni.cz/), Brno, Czech Republic)
 
 ### 2014
 - [Parallelization of Query Processing in MedSavant](2014-muni-parallelization-of-query-processing-in-medsavant.pdf) ([Masaryk University](https://www.muni.cz/), Brno, Czech Republic)
