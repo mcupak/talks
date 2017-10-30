@@ -17,6 +17,23 @@ This repository contains slides for my talks from various conferences and events
 
 ## Academic
 
+### 2014
+- [Parallelization of Query Processing in MedSavant](2014-muni-parallelization-of-query-processing-in-medsavant.pdf) ([Masaryk University](https://www.muni.cz/), Brno, Czech Republic)
+
+### 2013
+- [Automated YCSB Benchmarking](2013-uoft-automated-ycsb-benchmarking.pdf) ([University of Toronto](https://www.utoronto.ca/), Toronto, ON, Canada)
+- [UrbanEyes](2013-uoft-urbaneyes.pdf) ([University of Toronto](https://www.utoronto.ca/), Toronto, ON, Canada)
+- [EnergYT: Energy Efficient YouTube Player](2013-uoft-energyt-energy-efficient-youtube-player.pdf) ([University of Toronto](https://www.utoronto.ca/), Toronto, ON, Canada)
+- [FlumeJava: Easy, Efficient Data-Parallel Pipelines](2013-uoft-flumejava-easy-efficient-data-parallel-pipelines.pdf) ([University of Toronto](https://www.utoronto.ca/), Toronto, ON, Canada)
+- [Dynamo Amazon’s Highly Available Key-value Store](2013-uoft-dynamo-amazons-highly-available-key-value-store.pdf) ([University of Toronto](https://www.utoronto.ca/), Toronto, ON, Canada)
+- [Odessa Enabling Interactive Perception Applications on Mobile Devices](2013-uoft-odessa-enabling-interactive-perception-applications-on-mobile-devices.pdf) ([University of Toronto](https://www.utoronto.ca/), Toronto, ON, Canada)
+
+### 2012
+- [Undo, Redo and Collaboration in Web Applications](2012-uoft-undo-redo-and-collaboration-in-web-applications.pdf) ([University of Toronto](https://www.utoronto.ca/), Toronto, ON, Canada)
+- [Exploring Failure Transparency and the Limits of Generic Recovery](2012-uoft-exploring-failure-transparency-and-the-limits-of-generic-recovery.pdf) ([University of Toronto](https://www.utoronto.ca/), Toronto, ON, Canada)
+- [Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code](2012-uoft-bugs-as-deviant-behaviour-a-general-approach-to-inferring-errors-in-systems-code.pdf) ([University of Toronto](https://www.utoronto.ca/), Toronto, ON, Canada)
+- [Network Statistics for OpenFlow](2012-uoft-network-statistics-for-openflow.pdf) ([University of Toronto](https://www.utoronto.ca/), Toronto, ON, Canada)
+
 ### 2011
-- [Application for Education Plans Management on Enterprise Portal Platform](2011-muni-application-for-education-plans-management-on-enterprise-portal-platform) ([Masaryk University](https://www.muni.cz/), Brno, Czech Republic)
+- [Application for Education Plans Management on Enterprise Portal Platform](2011-muni-application-for-education-plans-management-on-enterprise-portal-platform.pdf) ([Masaryk University](https://www.muni.cz/), Brno, Czech Republic)
 - [Network Pong](2011-aau-network-pong.pdf) ([Aalborg University](http://www.en.aau.dk/), Aalborg, Denmark)
