@@ -15,4 +15,5 @@ This repository contains slides for my talks from various conferences and events
 ## Academic
 
 ### 2011
+- [Application for Education Plans Management on Enterprise Portal Platform](2011-muni-application-for-education-plans-management-on-enterprise-portal-platform) ([Masaryk University](https://www.muni.cz/), Brno, Czech Republic)
 - [Network Pong](2011-aau-network-pong.pdf) ([Aalborg University](http://www.en.aau.dk/), Aalborg, Denmark)
