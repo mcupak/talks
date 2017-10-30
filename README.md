@@ -2,11 +2,15 @@
 
 This repository contains slides for my talks from various conferences and events.
 
-## Professional
+## Industry
 
 ### 2017
 - [Exploring Java 9 APIs with JShell](2017-tjug-exploring-java-9-apis-with-jshell.pdf) ([Toronto Java User Group](http://www.tjug.ca/), Toronto, ON, Canada)
 - [How to Light a Beacon](2017-sme-how-to-light-a-beacon.pdf) ([ELIXIR Innovation and SME Forum](https://www.elixir-europe.org/events/elixir-innovation-and-sme-forum-genomics-and-health-global-resources-local-innovation-0), Helsinki, Finland)
+
+### 2015
+- [40 Great Jenkins Plugins in 40 Minutes](2015-devconf-40-great-jenkins-plugins-in-40-minutes.pdf) ([DevConf](https://devconf.cz/), Brno, Czech Republic)
+- [Hacking Jenkins](2015-devconf-hacking-jenkins.pdf) ([DevConf](https://devconf.cz/), Brno, Czech Republic)
 
 ### 2012
 - [Portlet Bridge](2012-jbugcz-portletbridge.pdf) ([JBoss User Group](https://developer.jboss.org/groups/JBUGcz), Brno, Czech Republic)
@@ -15,7 +19,7 @@ This repository contains slides for my talks from various conferences and events
 - [Further Capabilities of Portlets & Portals](2011-but-further-capabilities-of-portlets-and-portals.pdf) ([System Integration with JBoss at Brno University of Technology](https://developer.jboss.org/wiki/SystemovaIntegraceSJBossemPodzim2011), Brno, Czech Republic)
 - [GateIn Introduction](2011-but-gatein-introduction.pdf) ([System Integration with JBoss at Brno University of Technology](https://developer.jboss.org/wiki/SystemovaIntegraceSJBossemPodzim2011), Brno, Czech Republic)
 
-## Academic
+## Academia
 
 ### 2014
 - [Parallelization of Query Processing in MedSavant](2014-muni-parallelization-of-query-processing-in-medsavant.pdf) ([Masaryk University](https://www.muni.cz/), Brno, Czech Republic)
