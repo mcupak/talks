@@ -13,3 +13,6 @@ This repository contains slides for my talks from various conferences and events
 
 ## Academic
 
+### 2011
+
+- [Network Pong](2011-aau-network-pong.pdf) ([Aalborg University](http://www.en.aau.dk/), Aalborg, Denmark)
