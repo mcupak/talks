@@ -4,6 +4,9 @@ This repository contains slides for my talks from various conferences and events
 
 ## Industry
 
+### 2018
+- **Java 9, Episode 2** ([Singapore Java User Group](https://www.meetup.com/singajug/), Singapore) [[PDF](2018-singajug-java-9-episode-2.pdf)]
+
 ### 2017
 - **Exploring Java 9 APIs with JShell** ([Toronto Java User Group](http://www.tjug.ca/), Toronto, ON, Canada) [[PDF](2017-tjug-exploring-java-9-apis-with-jshell.pdf)]
 - **Effective Prototyping with Java 9** ([FSTOCO](http://fsto.co/), Toronto, ON, Canada) [[PDF](2017-fstoco-effective-prototyping-with-java-9.pdf)]
