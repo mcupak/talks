@@ -5,6 +5,8 @@ This repository contains slides for my talks from various conferences and events
 ## Industry
 
 ### 2018
+- **How we built a global search engine for genetic data** ([Index](https://developer.ibm.com/indexconf/), San Francisco, CA, USA) [[PDF](2018-index-how-we-built-a-global-search-engine.pdf)]
+- **Exploring Java 9 with REPL** ([Index](https://developer.ibm.com/indexconf/), San Francisco, CA, USA) [[PDF](2018-index-exploring-java-9-with-repl.pdf)]
 - **Java 9, Episode 2** ([Singapore Java User Group](https://www.meetup.com/singajug/), Singapore) [[PDF](2018-singajug-java-9-episode-2.pdf)]
 
 ### 2017
