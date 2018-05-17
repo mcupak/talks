@@ -5,6 +5,7 @@ This repository contains slides for my talks from various conferences and events
 ## Industry
 
 ### 2018
+- **Building a global search engine for genetic data** ([DevTO](http://www.devto.ca/), Toronto, ON, Canada) [[PDF](2018-building-a-global-search-engine-for-genetic-data.pdf)]
 - **Exploring Java 9 with REPL** ([Java With The Best](https://java.withthebest.com/), online) [[PDF](2018-jwtb-exploring-java-9-with-repl.pdf)]
 - **How we built a global search engine for genetic data** ([Index](https://developer.ibm.com/indexconf/), San Francisco, CA, USA) [[PDF](2018-index-how-we-built-a-global-search-engine.pdf)]
 - **Exploring Java 9 with REPL** ([Index](https://developer.ibm.com/indexconf/), San Francisco, CA, USA) [[PDF](2018-index-exploring-java-9-with-repl.pdf)]
